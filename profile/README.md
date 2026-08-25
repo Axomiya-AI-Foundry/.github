@@ -250,7 +250,7 @@ https://axomiya-ai-foundry.vercel.app/
 https://axomiyaitlabs.vercel.app/
 
 💻 **GitHub Organization**
-https://github.com/AxomiyaAIFoundry
+https://github.com/Axomiya-AI-Foundry
 
 📚 **Documentation**
 https://axomiya-ai-foundry.vercel.app/documentation

@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://axomiya-ai-foundry.vercel.app/">🌐 Website</a> ·
   <a href="https://axomiya-ai-foundry.vercel.app/en/documentation">📚 Documentation</a> ·
-  <a href="https://axomiya-ai-foundry.vercel.app/en/contribute">🤝 Contribute</a> ·
+  <a href="https://axomiya-ai-foundry.vercel.app/en/contribute">🤝 Contribute</a>
 </p>
 
 ---

@@ -1,32 +1,64 @@
 # Axomiya AI Foundry
 
-### Open AI infrastructure for the Assamese language.
+<p align="center">
+  <img src="public/images/brand/logo.svg" alt="Axomiya AI Foundry" width="120" />
+</p>
 
-**Axomiya AI Foundry** is a community-driven, open-source initiative by **[Axomiya IT Labs](https://axomiyaitlabs.vercel.app/)** focused on building language resources, datasets, tools, and research infrastructure for Assamese AI.
+<h3 align="center">
+  Open AI infrastructure for the Assamese language.
+</h3>
 
-We are working to make high-quality Assamese language resources more accessible to researchers, developers, educators, students, institutions, and open-source communities.
+<p align="center">
+  Language Resources · Datasets · Speech · Research · Open Source
+</p>
 
-**[🌐 Visit Axomiya AI Foundry](https://axomiya-ai-foundry.vercel.app/)** · **[🏠 Axomiya IT Labs](https://axomiyaitlabs.vercel.app/)**
+<p align="center">
+  <a href="https://axomiya-ai-foundry.vercel.app/">🌐 Website</a> ·
+  <a href="https://axomiya-ai-foundry.vercel.app/en/documentation">📚 Documentation</a> ·
+  <a href="https://axomiya-ai-foundry.vercel.app/en/contribute">🤝 Contribute</a> ·
+  <a href="https://github.com/Axomiya-AI-Foundry">💻 GitHub</a>
+</p>
 
 ---
 
-## Why We Exist
+## About
 
-Artificial intelligence is becoming part of everyday life—from search and education to accessibility, communication, research, and public services.
+**Axomiya AI Foundry** is a community-driven, open-source initiative by **[Axomiya IT Labs](https://axomiyaitlabs.vercel.app/)** focused on building open language resources and AI infrastructure for Assamese.
 
-Modern foundation models such as **OpenAI GPT, Google Gemini, Anthropic Claude, Meta Llama, Mistral, DeepSeek, Sarvam AI**, and others are expanding multilingual AI capabilities.
+We work on the foundational resources that researchers, developers, educators, students, institutions, and communities need to build better Assamese language technology.
 
-These systems depend on high-quality language resources.
+We are not trying to build another chatbot.
 
-For Assamese, openly available and reusable AI-oriented resources remain comparatively limited.
+> **We are building the resources that others can build with.**
 
-**Axomiya AI Foundry exists to help build that missing layer.**
+Our work includes datasets, linguistic resources, speech resources, research materials, evaluation resources, documentation, and open-source infrastructure.
 
-We focus on the language infrastructure beneath AI applications: structured datasets, speech resources, evaluation resources, documentation, tooling, and open research infrastructure.
+---
 
-We are not building another chatbot.
+## Why Axomiya AI Foundry?
 
-**We are building resources that others can build with.**
+Assamese has a rich linguistic and cultural heritage, but the amount of openly available, structured, reusable digital infrastructure for modern AI research is still limited.
+
+This creates challenges for people working on:
+
+- Natural Language Processing
+- Large Language Models
+- Retrieval-Augmented Generation
+- Speech Recognition
+- Text-to-Speech
+- Machine Translation
+- OCR
+- Search
+- Education
+- Accessibility
+- Language Research
+- Assamese-first AI applications
+
+Axomiya AI Foundry exists to help build this missing foundation.
+
+We believe Assamese language infrastructure should be:
+
+**Open · Accessible · Documented · Reusable · Community-driven**
 
 ---
 
@@ -34,238 +66,328 @@ We are not building another chatbot.
 
 > **Build open, reliable, and reusable language infrastructure that helps Assamese thrive in the age of artificial intelligence.**
 
-We believe Assamese language technology can benefit from an open ecosystem where students, researchers, developers, institutions, and communities can contribute to and build upon shared resources.
+We want to create an ecosystem where people can freely:
 
-Our work is focused on creating useful foundations that can support the next generation of Assamese AI applications and research.
+- Research
+- Learn
+- Experiment
+- Build
+- Contribute
+- Improve
+- Reuse
+
+Assamese language resources.
 
 ---
 
-## What We're Building
+# What We're Building
 
-### 🗂️ AxomiyaKosh
+## 🗂️ AxomiyaKosh
 
-An open structured Assamese lexical resource designed to support language research, search, retrieval, educational tools, RAG systems, and other language technologies.
+**AxomiyaKosh** is an open structured Assamese lexical resource.
+
+It is designed to support language research and applications such as:
+
+- Linguistic research
+- Search
+- Retrieval
+- RAG systems
+- Educational tools
+- NLP research
+- Assamese language applications
 
 **Status:** In development
 
 ---
 
-### 🎙️ AxomiyaVoice
+## 🎙️ AxomiyaVoice
 
-A community-built Assamese speech resource containing recordings and verified transcriptions for speech technology research.
+**AxomiyaVoice** is a community-built Assamese speech resource containing contributed recordings and verified transcriptions.
+
+It is intended to support research and development in areas such as:
+
+- Automatic Speech Recognition
+- Text-to-Speech
+- Speech processing
+- Voice technology
+- Assamese language AI research
 
 **Status:** In development
 
 ---
 
-### 🔬 Future Research Resources
+## 🔬 Future Resources
 
-As the project develops, we plan to explore additional open resources including:
+As the ecosystem grows, we plan to explore additional open resources such as:
 
-* OCR datasets
-* Handwriting datasets
-* Translation corpora
-* Evaluation benchmarks
-* Knowledge resources
-* Multimodal datasets
-* Speech resources
-* Linguistic metadata
-* Developer tooling
+- OCR datasets
+- Handwriting datasets
+- Translation corpora
+- Evaluation benchmarks
+- Knowledge resources
+- Multimodal datasets
+- Speech resources
+- Linguistic metadata
+- Language evaluation resources
+- Developer tooling
 
-All resources will be published according to their individual availability, documentation, and licensing requirements.
-
----
-
-## Why Open Language Infrastructure Matters
-
-Better language resources can support research and applications across:
-
-* Large Language Models
-* Retrieval-Augmented Generation
-* Speech Recognition
-* Text-to-Speech
-* Machine Translation
-* Search
-* OCR
-* Education
-* Accessibility
-* Digital Archives
-* Language Learning
-* Conversational Systems
-
-Our goal is to make it easier for people to experiment, research, build, and innovate with Assamese.
+Each resource will have its own documentation, licensing, versioning, and contribution guidelines.
 
 ---
 
-## Open by Design
+# Open by Design
 
-We believe language infrastructure benefits from openness and collaboration.
+Axomiya AI Foundry is built around open collaboration.
 
-Our work emphasizes:
+We believe language infrastructure becomes stronger when people can inspect it, contribute to it, improve it, and build upon it.
 
-* Open development
-* Transparent dataset versions
-* Community contribution
-* Reproducible research
-* Clear licensing
-* Public documentation
-* Dataset quality
-* Long-term preservation
+Our principles include:
 
----
-
-## Who Can Contribute?
-
-Everyone is welcome.
-
-You can contribute as a:
-
-* Native Assamese speaker
-* Student
-* Teacher
-* Linguist
-* Researcher
-* Developer
-* AI engineer
-* Writer
-* Translator
-* Open-source contributor
-* Community volunteer
-
-You don't need to be an AI researcher to contribute.
-
-A word, sentence, voice recording, correction, issue, pull request, or documentation improvement can all help strengthen the project.
-
-**[→ Learn how to contribute](https://axomiya-ai-foundry.vercel.app/contribute)**
+- **Open development**
+- **Community contribution**
+- **Transparent releases**
+- **Clear licensing**
+- **Public documentation**
+- **Dataset quality**
+- **Reproducibility**
+- **Long-term preservation**
 
 ---
 
-## Repositories
+# Who Can Contribute?
+
+**Everyone is welcome.**
+
+You don't need to be a developer or AI researcher.
+
+### 🗣️ Native Assamese Speakers
+
+Help improve language resources through:
+
+- Vocabulary contributions
+- Corrections
+- Definitions
+- Language review
+- Speech recordings
+- Linguistic feedback
+
+### 🎓 Students & Educators
+
+Help with:
+
+- Research
+- Documentation
+- Dataset projects
+- Language resources
+- Educational applications
+
+### 🔬 Researchers
+
+Contribute through:
+
+- Research
+- Evaluation
+- Dataset methodology
+- Benchmarks
+- Linguistic analysis
+- Academic collaboration
+
+### 💻 Developers
+
+Help by:
+
+- Improving the platform
+- Building tools
+- Fixing issues
+- Improving documentation
+- Creating integrations
+- Maintaining open-source infrastructure
+
+### 🌱 Community Contributors
+
+You can also help by:
+
+- Reporting issues
+- Reviewing contributions
+- Improving translations
+- Writing documentation
+- Sharing the project
+- Suggesting new ideas
+
+Even a small contribution can improve the ecosystem.
+
+**[→ Learn how to contribute](https://axomiya-ai-foundry.vercel.app/en/contribute)**
+
+---
+
+# The GitHub Organization
+
+This organization is the home of the **Axomiya AI Foundry ecosystem**.
+
+Repositories may cover different parts of the project, including:
 
 ### 🌐 Axomiya AI Foundry
 
-Website, documentation, project information, research resources, and contribution guides.
+The main project website, documentation, research information, datasets overview, and contribution resources.
 
-### 🗃️ Axomiya AI Datasets
+### 🗃️ Dataset Projects
 
-Dataset engineering, schemas, validation tools, metadata, releases, and dataset resources.
+Repositories for dataset development, schemas, validation, metadata, releases, and resource-specific tooling.
 
-Additional repositories may be created as the ecosystem grows.
+### 🔬 Research & Experiments
 
----
+Open research projects, experiments, evaluations, and supporting resources.
 
-## Technology
+### 🛠️ Tools & Infrastructure
 
-Our infrastructure is designed around open technologies and interoperable formats.
+Open-source utilities and infrastructure that help create, validate, document, and work with Assamese language resources.
 
-Depending on the resource, this may include:
-
-* JSON
-* JSONL
-* CSV
-* SQLite
-* SQLite FTS5
-* WAV
-* Python
-* TypeScript
-* Next.js
-* GitHub
-* Open-source AI tooling
-
-Specific technologies and formats are documented within each project.
+As the ecosystem grows, additional repositories will be created where they make sense.
 
 ---
 
-## For Researchers
+# For Researchers
 
-We aim to make our resources useful for academic and applied research.
+We want our resources to be useful for both academic and applied research.
 
-Dataset releases will include, where applicable:
+Where applicable, dataset releases will provide:
 
-* Version information
-* Dataset documentation
-* Schema
-* Licensing
-* Statistics
-* Validation information
-* Changelog
-* Citation information
+- Version information
+- Dataset documentation
+- Schema
+- Licensing
+- Statistics
+- Validation information
+- Changelog
+- Citation information
 
-Researchers should cite the specific dataset version used in their work.
+Researchers should cite the specific resource and version used in their work.
 
-**[→ Research & Citation](https://axomiya-ai-foundry.vercel.app/research)**
+**[→ Explore Research](https://axomiya-ai-foundry.vercel.app/en/research)**
 
 ---
 
-## For Developers
+# For Developers
 
-Build Assamese language applications using open resources.
+Build with Assamese language resources.
 
 Potential applications include:
 
-* Assamese search
-* RAG systems
-* Speech recognition
-* Text-to-speech
-* Translation
-* Educational applications
-* Accessibility tools
-* Language learning
-* Digital archives
-* Conversational systems
-* Language research
+- Assamese search
+- RAG systems
+- Speech applications
+- Translation systems
+- Educational technology
+- Accessibility tools
+- Language learning
+- Digital archives
+- Conversational systems
+- Research tools
 
-**[→ Explore the documentation](https://axomiya-ai-foundry.vercel.app/documentation)**
+**[→ Explore Documentation](https://axomiya-ai-foundry.vercel.app/en/documentation)**
 
 ---
 
-## Community
+# Community
 
 Axomiya AI Foundry is built in the open.
 
-Explore our repositories, open an issue, suggest an improvement, contribute data, submit code, or participate in discussions.
+You can:
 
-Every contribution helps strengthen the Assamese open-source AI ecosystem.
+- ⭐ Star repositories
+- 🐛 Report issues
+- 💡 Suggest ideas
+- 📊 Contribute data
+- 💻 Submit code
+- 📚 Improve documentation
+- 🔬 Conduct research
+- 🤝 Collaborate with contributors
 
-**[→ Visit the project](https://axomiya-ai-foundry.vercel.app/)**
-
----
-
-## Part of Axomiya IT Labs
-
-Axomiya AI Foundry is an open-source initiative by **[Axomiya IT Labs](https://axomiyaitlabs.vercel.app/)**, an Assam-based community focused on AI, open source, and accessible technology.
-
-Axomiya IT Labs provides the broader community and open-source ecosystem in which projects such as Axomiya AI Foundry can be developed and shared.
-
-**[Visit Axomiya IT Labs →](https://axomiyaitlabs.vercel.app/)**
+Whether you contribute code, language data, research, documentation, or simply help spread the project, you are helping build Assamese AI infrastructure.
 
 ---
 
-## Links
+# Licensing
 
-🌐 **Axomiya AI Foundry**
+Different resources may use different licenses depending on their nature.
+
+For example:
+
+- **AxomiyaKosh** — MIT License
+- **AxomiyaVoice** — CC BY 4.0
+
+Always check the individual repository or dataset documentation before using or redistributing a resource.
+
+---
+
+# Part of Axomiya IT Labs
+
+**Axomiya AI Foundry** is an open-source initiative by **[Axomiya IT Labs](https://axomiyaitlabs.vercel.app/)**.
+
+Axomiya IT Labs is an open technology community focused on:
+
+**AI · Open Source · Technology**
+
+with the goal of making technology more accessible and useful for Assam and beyond.
+
+**[→ Visit Axomiya IT Labs](https://axomiyaitlabs.vercel.app/)**
+
+---
+
+# Explore
+
+🌐 **Website**  
 https://axomiya-ai-foundry.vercel.app/
 
-🏠 **Axomiya IT Labs**
+📚 **Documentation**  
+https://axomiya-ai-foundry.vercel.app/en/documentation
+
+🔬 **Research**  
+https://axomiya-ai-foundry.vercel.app/en/research
+
+🤝 **Contribute**  
+https://axomiya-ai-foundry.vercel.app/en/contribute
+
+🗂️ **AxomiyaKosh**  
+https://axomiya-ai-foundry.vercel.app/en/datasets/axomiyakosh
+
+🎙️ **AxomiyaVoice**  
+https://axomiya-ai-foundry.vercel.app/en/datasets/axomiyavoice
+
+🏠 **Axomiya IT Labs**  
 https://axomiyaitlabs.vercel.app/
 
-💻 **GitHub Organization**
+💻 **GitHub Organization**  
 https://github.com/Axomiya-AI-Foundry
-
-📚 **Documentation**
-https://axomiya-ai-foundry.vercel.app/documentation
-
-🔬 **Research**
-https://axomiya-ai-foundry.vercel.app/research
-
-🤝 **Contribute**
-https://axomiya-ai-foundry.vercel.app/contribute
 
 ---
 
-## Build openly. Preserve knowledge. Enable the future.
+# Our Vision
 
-**Axomiya AI Foundry**
-*Open infrastructure for Assamese AI.*
+We want to help build an Assamese AI ecosystem where high-quality language resources are not locked behind private systems or inaccessible research environments.
 
-An initiative by **[Axomiya IT Labs](https://axomiyaitlabs.vercel.app/)**.
+We want students to experiment.
+
+We want researchers to have resources.
+
+We want developers to build.
+
+We want communities to contribute.
+
+And we want Assamese language technology to have an open foundation that everyone can participate in.
+
+> **Build the infrastructure.**  
+> **Open the resources.**  
+> **Empower the community.**  
+> **Help Assamese thrive in the age of AI.**
+
+---
+
+<p align="center">
+  <strong>Axomiya AI Foundry</strong><br />
+  <em>Open infrastructure for Assamese AI.</em>
+</p>
+
+<p align="center">
+  An initiative by <a href="https://axomiyaitlabs.vercel.app/">Axomiya IT Labs</a>.
+</p>

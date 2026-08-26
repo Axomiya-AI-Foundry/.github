@@ -1,7 +1,7 @@
 # Axomiya AI Foundry
 
 <p align="center">
-  <img src="public/images/brand/logo.svg" alt="Axomiya AI Foundry" width="120" />
+  <img src="https://github.com/Axomiya-AI-Foundry/Axomiya-AI-Foundry/blob/main/public/images/brand/logo.svg" alt="Axomiya AI Foundry" width="120" />
 </p>
 
 <h3 align="center">
